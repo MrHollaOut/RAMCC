@@ -91,6 +91,12 @@ I'm passionate about defending digital systems and continuously advancing my ski
 - Certified in Cybersecurity (ISC2) (2024)
 - Google IT Support Professional Certificate (2023)
 
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA33?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2C75A3?style=for-the-badge&logo=powershell&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-ff6f00?style=for-the-badge&logo=siem&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-DF5A29?style=for-the-badge&logo=linux&logoColor=white)
+
 ---
 
 ## 📫 Contact
