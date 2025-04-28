@@ -36,7 +36,7 @@ I'm passionate about defending digital systems and continuously advancing my ski
 | [Threat Hunting Reports](./Threat-Hunting-Reports) | Active hunts for anomalies and threats |
 | [CTF Writeups](./CTF-Writeups) | Capture the Flag challenge solutions and walkthroughs |
 | [Automation Scripts](./Automation-Scripts) | Python and Bash scripts for cybersecurity automation |
-| [Threat Intelligence Profiles](./Threat-Intelligence) | Adversary analysis and IOC research |
+| [Threat Intelligence Profiles](./Threat-Intelligence-Profiles) | Adversary analysis and IOC research |
 | [Skill Trackers](./Skill-Trackers) | Daily/weekly skill building activities |
 
 ---
@@ -75,7 +75,7 @@ I'm passionate about defending digital systems and continuously advancing my ski
 ---
 
 ## 🛰️ Threat Intelligence Profiles
-- [APT29 Threat Actor Profile](Threat-Intelligence/APT29.md)
+- [APT29 Threat Actor Profile](Threat-Intelligence-Profiles/APT29.md)
 
 ---
 
