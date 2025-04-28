@@ -1,7 +1,7 @@
 # RAMCC
 # Cybersecurity Portfolio of R. Anthony McCoy
 
-Welcome! I'm a motivated cybersecurity professional specializing in Incident Response, Digital Forensics, and Threat Intelligence.
+Welcome to my cybersecurity portfolio! I'm a motivated cybersecurity professional specializing in Incident Response, Digital Forensics, and Threat Intelligence.  Here you'll find real-world samples of my technical work.
 
 This portfolio showcases my hands-on projects, reports, scripts, and CTF achievements.
 
@@ -94,9 +94,9 @@ I'm passionate about defending digital systems and continuously advancing my ski
 ---
 
 ## 📫 Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/ranthonymccoy/)
-- [GitHub Profile](https://github.com/your-github-username)
-- (Optional: Portfolio Website Link)
+📧 [anthony.mccoy@mitsllcom.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ranthonymccoy/)
+💻 [GitHub Profile](https://github.com/RAMcCoy)
 
 ---
 
