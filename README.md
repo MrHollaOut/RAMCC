@@ -35,7 +35,7 @@ I'm passionate about defending digital systems and continuously advancing my ski
 | [Incident Response Reports](./Incident-Reports) | Investigations and documentation of security incidents |
 | [Threat Hunting Reports](./Threat-Hunting-Reports) | Active hunts for anomalies and threats |
 | [CTF Writeups](./CTF-Writeups) | Capture the Flag challenge solutions and walkthroughs |
-| [Automation Scripts](./Scripts) | Python and Bash scripts for cybersecurity automation |
+| [Automation Scripts](./Automation-Scripts) | Python and Bash scripts for cybersecurity automation |
 | [Threat Intelligence Profiles](./Threat-Intelligence) | Adversary analysis and IOC research |
 | [Skill Trackers](./Skill-Trackers) | Daily/weekly skill building activities |
 
@@ -69,8 +69,8 @@ I'm passionate about defending digital systems and continuously advancing my ski
 ---
 
 ## ⚙️ Automation Scripts
-- [Python Log Monitor](Scripts/Python-Log-Monitor.py)
-- [Bash Daily Log Backup](Scripts/dailylogbackup.sh)
+- [Python Log Monitor](Automation-Scripts/Python-Log-Monitor.py)
+- [Bash Daily Log Backup](Automation-Scripts/dailylogbackup.sh)
 
 ---
 
