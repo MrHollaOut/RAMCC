@@ -9,19 +9,46 @@ This portfolio showcases my hands-on projects, reports, scripts, and CTF achieve
 
 ## 🔥 About R. Anthony McCoy
 
-Motivated cybersecurity specialist with a focus on Incident Response and Digital Forensics. I bring extensive hands-on experience in system monitoring, threat detection, malware analysis, and vulnerability assessment.
+Motivated cybersecurity professional specializing in **Incident Response**, **Threat Hunting**, and **Digital Forensics**.  
+I bring hands-on experience across log analysis, SIEM operations, malware analysis, vulnerability management, and scripting with Python and Bash.
 
-My technical toolkit includes Python, Bash, Wireshark, and SIEM tools, along with strong capabilities in threat intelligence research and automation scripting.
+Graduate of the **Federal Cyber Defense Skilling Academy (FCDSA)** and completed **HarvardX's CS50’s Introduction to Cybersecurity**. Currently enrolled in additional **HarvardX online courses**, with a focus on computer science and cybersecurity. My education includes:
+- **CS50’s Introduction to Cybersecurity** (Completed)
+- **CS50's Introduction to Computer Science**  
+- **Computer Science for Cybersecurity Professional Certificate** (In progress)
 
-Recent graduate of the Federal Cyber Defense Skilling Academy, with certifications including:
+Industry certifications include:
 - CompTIA CySA+
 - CompTIA Security+
-- Fortinet Certified Associate Cybersecurity
-- (Additional certifications...)
+- Fortinet Certified Associate
+- Certified in Cybersecurity (ISC2)
+- Google IT Support Professional
 
-🔎 **Interests:** Incident Response | Threat Hunting | Digital Forensics | SOC Operations | Cloud Security
+I'm passionate about defending digital systems and continuously advancing my skills to meet evolving threats.
 
-> "Cybersecurity is about resilience, not just defense."
+---
+
+## 📂 My Work
+
+| 📁 Project | 🔎 Description |
+|:---|:---|
+| [Incident Response Reports](./Incident-Reports) | Investigations and documentation of security incidents |
+| [Threat Hunting Reports](./Threat-Hunting-Reports) | Active hunts for anomalies and threats |
+| [CTF Writeups](./CTF-Writeups) | Capture the Flag challenge solutions and walkthroughs |
+| [Automation Scripts](./Scripts) | Python and Bash scripts for cybersecurity automation |
+| [Threat Intelligence Profiles](./Threat-Intelligence) | Adversary analysis and IOC research |
+| [Skill Trackers](./Skill-Trackers) | Daily/weekly skill building activities |
+
+---
+
+## 📈 Skill Areas
+
+- 🛡️ Incident Response & Digital Forensics
+- 🔍 Threat Hunting & Threat Intelligence
+- 📊 Security Operations Center (SOC) Analysis
+- ⚙️ Scripting (Python, Bash, PowerShell)
+- 🌐 Cloud Security Foundations (AWS, Azure)
+- 🛠️ Malware Analysis (Static and Dynamic)
 
 ---
 
