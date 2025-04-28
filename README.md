@@ -63,7 +63,7 @@ I'm passionate about defending digital systems and continuously advancing my ski
 ---
 
 ## 🧠 CTF Writeups
-- [TryHackMe: Blue Room Writeup](CTF-Writeups/THM-Blue.md) *(Example: Replace with your actual files)*
+- [TryHackMe: Blue Room Writeup](CTF-Writeups/THM-Blue.md)
 - [HackTheBox: Archetype Writeup](CTF-Writeups/HTB-Archetype.md)
 
 ---
